@@ -18,3 +18,17 @@
 8、Material
 https://draculatheme.com/visual-studio-code/
 https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme#review-details
+
+sublime的设置
+Sublime Text Keymap
+
+括号
+Bracket Pair Colorizer
+
+css计算
+cssrem 
+
+mk
+markdownlint 
+
+vscode-icon
